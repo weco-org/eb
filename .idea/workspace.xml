@@ -17,6 +17,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.fileTypes" />
+    <property name="ts.external.directory.path" value="$APPLICATION_HOME_DIR$/plugins/JavaScriptLanguage/jsLanguageServicesImpl/external" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -56,7 +58,7 @@
       <workItem from="1603466490371" duration="189000" />
       <workItem from="1604338994416" duration="1515000" />
       <workItem from="1604430960956" duration="731000" />
-      <workItem from="1604506252047" duration="5196000" />
+      <workItem from="1604506252047" duration="11837000" />
     </task>
     <servers />
   </component>
@@ -64,25 +66,33 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="612" y="421" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604515516419">
+    <state x="612" y="421" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1604523366537">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state x="612" y="421" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1177@0.23.1920.1177" timestamp="1604515516419" />
-    <state width="1878" height="322" key="GridCell.Tab.0.bottom" timestamp="1604515914071">
+    <state x="612" y="421" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1177@0.23.1920.1177" timestamp="1604523366537" />
+    <state width="1878" height="322" key="GridCell.Tab.0.bottom" timestamp="1604520190312">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1878" height="322" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1604515914071" />
-    <state width="1878" height="322" key="GridCell.Tab.0.center" timestamp="1604515914069">
+    <state width="1878" height="322" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1604520190312" />
+    <state width="1878" height="322" key="GridCell.Tab.0.center" timestamp="1604520190311">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1878" height="322" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1604515914069" />
-    <state width="1878" height="322" key="GridCell.Tab.0.left" timestamp="1604515914068">
+    <state width="1878" height="322" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1604520190311" />
+    <state width="1878" height="322" key="GridCell.Tab.0.left" timestamp="1604520190310">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1878" height="322" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1604515914068" />
-    <state width="1878" height="322" key="GridCell.Tab.0.right" timestamp="1604515914070">
+    <state width="1878" height="322" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1604520190310" />
+    <state width="1878" height="322" key="GridCell.Tab.0.right" timestamp="1604520190311">
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
-    <state width="1878" height="322" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1604515914070" />
+    <state width="1878" height="322" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1604520190311" />
+    <state x="461" y="250" key="SettingsEditor" timestamp="1604519802924">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="461" y="250" key="SettingsEditor/0.23.1920.1177@0.23.1920.1177" timestamp="1604519802924" />
+    <state x="658" y="366" width="604" height="490" key="find.popup" timestamp="1604521141793">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state x="658" y="366" width="604" height="490" key="find.popup/0.23.1920.1177@0.23.1920.1177" timestamp="1604521141793" />
   </component>
 </project>

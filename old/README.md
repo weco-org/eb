@@ -17,3 +17,11 @@ aws --profile weco cloudformation describe-stack-events --stack-name weco-backen
 
 ## Create express app
 https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/create_deploy_nodejs_express.html
+
+express && npm install
+
+git init --profile AWS_PROFILE_NAME
+
+eb create --sample node-express-env
+
+
