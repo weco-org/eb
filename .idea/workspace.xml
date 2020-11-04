@@ -22,10 +22,28 @@
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/old" />
+      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="start" type="js.build_tools.npm" temporary="true" nameIsGenerated="true">
+      <package-json value="$PROJECT_DIR$/package.json" />
+      <command value="run" />
+      <scripts>
+        <script value="start" />
+      </scripts>
+      <node-interpreter value="project" />
+      <envs />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="npm.start" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -38,7 +56,7 @@
       <workItem from="1603466490371" duration="189000" />
       <workItem from="1604338994416" duration="1515000" />
       <workItem from="1604430960956" duration="731000" />
-      <workItem from="1604506252047" duration="4678000" />
+      <workItem from="1604506252047" duration="5196000" />
     </task>
     <servers />
   </component>
@@ -50,5 +68,21 @@
       <screen x="0" y="23" width="1920" height="1177" />
     </state>
     <state x="612" y="421" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1920.1177@0.23.1920.1177" timestamp="1604515516419" />
+    <state width="1878" height="322" key="GridCell.Tab.0.bottom" timestamp="1604515914071">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="322" key="GridCell.Tab.0.bottom/0.23.1920.1177@0.23.1920.1177" timestamp="1604515914071" />
+    <state width="1878" height="322" key="GridCell.Tab.0.center" timestamp="1604515914069">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="322" key="GridCell.Tab.0.center/0.23.1920.1177@0.23.1920.1177" timestamp="1604515914069" />
+    <state width="1878" height="322" key="GridCell.Tab.0.left" timestamp="1604515914068">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="322" key="GridCell.Tab.0.left/0.23.1920.1177@0.23.1920.1177" timestamp="1604515914068" />
+    <state width="1878" height="322" key="GridCell.Tab.0.right" timestamp="1604515914070">
+      <screen x="0" y="23" width="1920" height="1177" />
+    </state>
+    <state width="1878" height="322" key="GridCell.Tab.0.right/0.23.1920.1177@0.23.1920.1177" timestamp="1604515914070" />
   </component>
 </project>
